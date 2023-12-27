@@ -40,7 +40,38 @@ const ListView = () => {
             slug: 'renault',
         },
     ];
-    const [brands, setBrands] = React.useState(BRANDS);
+
+    const productsData = 
+        [
+            {
+              "name": "Sub",
+              "image": "sub.png",
+              "actual_price": 200,
+              "discount": "20",
+              "buying_price": 160,
+              "portion": "6 inch"
+            },
+            {
+              "name": "Podu",
+              "image": "podu.png",
+              "actual_price": 50,
+              "discount": "10",
+              "buying_price": 45,
+              "portion": "2 pieces"
+            },
+            {
+              "name": "Pani Pori",
+              "image": "pani-pori.png",
+              "actual_price": 30,
+              "discount": "",
+              "buying_price": 30,
+              "portion": "8 pieces"
+            }
+          ]
+
+ const data = JSON.parse(JSON.stringify(productsData));
+    
+    const [brands, setBrands] = React.useState(data);
     const [selectedBrands, setSelectedBrands] = React.useState([]);
 
 
@@ -51,7 +82,8 @@ const ListView = () => {
     const renderBrands  = ({ item, index }) => {
       
         return (
-            <CardView/>    
+            <CardView 
+             productsData = {item}/>    
         );    
     };
 

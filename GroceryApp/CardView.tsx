@@ -2,7 +2,9 @@
 import React, { useState } from 'react';
 import { FlatList, View, Text, TouchableOpacity, Dimensions, StyleSheet,Image } from 'react-native';
 const { width } = Dimensions.get('window');
-const CardView = () => {
+const CardView = (productsData: any) => {
+
+    console.log('shenu data', productsData.productsData);
     return (
         <View style={styles.cardView}>
             <View style={styles.leftView}>
@@ -17,7 +19,7 @@ const CardView = () => {
             </View>
 
             <View style={styles.rightView}>
-            <Text style={styles.labelText}>{'Nandini Toned Milk'}</Text>
+            <Text style={styles.labelText}>{productsData.productsData.name}</Text>
             <View style={styles.tagView}>
             <Text style={styles.tagText}>{'500 ML Pouch'}</Text>
             </View>
