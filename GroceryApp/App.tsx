@@ -25,8 +25,9 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 import {Home} from './HomeScreen/Home'
-import {VerifyOTP} from './VerifyOTP/VerifyOTP'
+//import {VerifyOTP} from './VerifyOTP/VerifyOTP'
 import MultiSelectList from './MultiSelectList';
+import ListView from './ListView';
 import { NavigationContainer } from '@react-navigation/native';
 //import { createStackNavigator } from '@react-navigation/stack';
 //const Stack = createStackNavigator();
@@ -39,9 +40,7 @@ function App(): JSX.Element {
   };
 
   return (
-   
-
-    <MultiSelectList/>
+    <ListView/>
    // <VerifyOTP/>
   //   <NavigationContainer>
   //   <Stack.Navigator>
