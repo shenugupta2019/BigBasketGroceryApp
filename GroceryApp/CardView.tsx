@@ -8,7 +8,7 @@ const CardView = (productsData: any) => {
     return (
         <View style={styles.cardView}>
             <View style={styles.leftView}>
-            <Text style={styles.textView}>{'discount'}</Text>
+            <Text style={styles.textView}>{productsData.productsData.discount}</Text>
             <View style={styles.imageCardView}>
             <Image
           style={styles.imageView}
@@ -21,9 +21,9 @@ const CardView = (productsData: any) => {
             <View style={styles.rightView}>
             <Text style={styles.labelText}>{productsData.productsData.name}</Text>
             <View style={styles.tagView}>
-            <Text style={styles.tagText}>{'500 ML Pouch'}</Text>
+            <Text style={styles.tagText}>{productsData.productsData.portion}</Text>
             </View>
-            <Text style={styles.priceText}>{'22.00'}</Text>
+            <Text style={styles.priceText}>{productsData.productsData.buying_price}</Text>
             </View>
 
         </View>
@@ -73,7 +73,9 @@ const styles = StyleSheet.create({
         margin:8,
         flexDirection: 'row',
         height:100,
-        //borderWidth:2,
+        borderWidth:1,
+        borderColor:'lightgrey',
+        borderRadius:10
     },
     imageView:{
         width:50,
