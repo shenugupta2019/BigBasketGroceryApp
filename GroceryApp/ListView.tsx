@@ -1,45 +1,11 @@
-import React, { useState } from 'react';
-import { FlatList, View, Text, TouchableOpacity, Dimensions, StyleSheet } from 'react-native';
+import React, { useState,useEffect } from 'react';
+import { FlatList, View, Text, TouchableOpacity, Dimensions, StyleSheet,TextInput } from 'react-native';
 const { width } = Dimensions.get('window');
 import CardView from './CardView';
 
 
 const ListView = () => {
 
-    const BRANDS = [
-        {
-            name: 'Toyota',
-            slug: 'toyota',
-        },
-        {
-            name: 'Mazda',
-            slug: 'mazda',
-        },
-        {
-            name: 'Honda',
-            slug: 'honda',
-        },
-        {
-            name: 'Tesla',
-            slug: 'tesla',
-        },
-        {
-            name: 'BMW',
-            slug: 'bmw',
-        },
-        {
-            name: 'Marcedez',
-            slug: 'marcedez',
-        },
-        {
-            name: 'Proton',
-            slug: 'proton',
-        },
-        {
-            name: 'Renault',
-            slug: 'renault',
-        },
-    ];
 
     const productsData = 
         [
@@ -70,16 +36,42 @@ const ListView = () => {
           ]
 
  const data = JSON.parse(JSON.stringify(productsData));
+
+ useEffect(() => {
+  setFilteredDataSource(data)
+  }, []);
     
     const [brands, setBrands] = React.useState(data);
-    const [selectedBrands, setSelectedBrands] = React.useState([]);
+    const [search, setSearch] = useState('');
+    const [filteredDataSource, setFilteredDataSource] = useState([]);
+    const [masterDataSource, setMasterDataSource] = useState([]);
 
-
-    const [selectedIds, setSelectedIds] = useState([]);
-  
+    const searchFilterFunction = (text: string) => {
+        // Check if searched text is not blank
+        if (text) {
+          // Inserted text is not blank
+          // Filter the masterDataSource
+          // Update FilteredDataSource
+          const newData = brands.filter(
+            function (item: { name: string; }) {
+              const itemData = item.name
+                ? item.name.toUpperCase()
+                : ''.toUpperCase();
+              const textData = text.toUpperCase();
+              return itemData.indexOf(textData) > -1;
+          });
+          setFilteredDataSource(newData);
+          setSearch(text);
+        } else {
+          // Inserted text is blank
+          // Update FilteredDataSource with masterDataSource
+          setFilteredDataSource(data);
+          setSearch(text);
+        }
+      };
 
    
-    const renderBrands  = ({ item, index }) => {
+    const renderBrands  = ({ item}) => {
       
         return (
             <CardView 
@@ -90,9 +82,16 @@ const ListView = () => {
 
     return (
         <View style={styles.container}>
+       <TextInput
+          style={styles.textInputStyle}
+          onChangeText={(text) => searchFilterFunction(text)}
+          value={search}
+          underlineColorAndroid="transparent"
+          placeholder="Search Here"
+        />
             <FlatList
                 showsVerticalScrollIndicator={true}
-                data={brands}
+                data={filteredDataSource}
                 renderItem={renderBrands}
                 scrollEnabled={true}
             />
@@ -139,7 +138,21 @@ const styles = StyleSheet.create({
         padding: 8,
         flexDirection: 'row',
     },
+ 
+        textInputStyle: {
+            height: 40,
+            borderWidth: 1,
+            paddingLeft: 20,
+            margin: 5,
+            borderColor: '#009688',
+            backgroundColor: '#FFFFFF',
+          },
+    
 });
 
 
 export default ListView;
+
+function filter(fullData: never[], arg1: (user: any) => boolean) {
+    throw new Error('Function not implemented.');
+}
