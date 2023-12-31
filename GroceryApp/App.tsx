@@ -6,6 +6,8 @@
  */
 
 import React from 'react';
+import {NavigationContainer} from '@react-navigation/native';
+import {createStackNavigator} from '@react-navigation/stack';
 import type {PropsWithChildren} from 'react';
 import {
   SafeAreaView,
@@ -28,37 +30,27 @@ import {Home} from './HomeScreen/Home'
 //import {VerifyOTP} from './VerifyOTP/VerifyOTP'
 import MultiSelectList from './MultiSelectList';
 import ListView from './ListView';
-import { NavigationContainer } from '@react-navigation/native';
-//import { createStackNavigator } from '@react-navigation/stack';
-//const Stack = createStackNavigator();
+import ProductsScreen from './ProductsScreen';
+
 
 function App(): JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';
+  const Stack = createStackNavigator();
 
   const backgroundStyle = {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
   };
 
   return (
-    <ListView/>
-   // <VerifyOTP/>
-  //   <NavigationContainer>
-  //   <Stack.Navigator>
-  //   <Stack.Screen
-  //     name="Home"
-  //     component={Home}
-  //     options={{ title: 'My Home Screen' }} />
-   
-  //   {/* <Stack.Screen
-  //     name="Details"
-  //     component={DetailsScreen}  />
-   
-  //    <Stack.Screen
-  //     name="Contact"
-  //     component={ContactScreen}  /> */}
-   
-  // </Stack.Navigator>
-  // </NavigationContainer>
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen
+          name="ListView"
+          component={ListView}
+        />
+          <Stack.Screen name="ProductsScreen" component={ProductsScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 }
 

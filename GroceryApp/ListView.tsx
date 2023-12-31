@@ -2,10 +2,10 @@ import React, { useState,useEffect } from 'react';
 import { FlatList, View, Text, TouchableOpacity, Dimensions, StyleSheet,TextInput } from 'react-native';
 const { width } = Dimensions.get('window');
 import CardView from './CardView';
+import ProductsScreen from './ProductsScreen';
 
 
-const ListView = () => {
-
+const ListView = ({navigation}) => {
 
     const productsData = 
         [
@@ -79,6 +79,12 @@ const ListView = () => {
         );    
     };
 
+    const onBackgroundPressed  = () => {
+      navigation.navigate('ProductsScreen');
+      console.log('shenu flat list item pressed');
+
+    }
+
 
     return (
         <View style={styles.container}>
@@ -94,6 +100,7 @@ const ListView = () => {
                 data={filteredDataSource}
                 renderItem={renderBrands}
                 scrollEnabled={true}
+                onTouchStart={onBackgroundPressed}
             />
         </View>
     );

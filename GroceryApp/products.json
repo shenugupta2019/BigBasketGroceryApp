@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Pani Poori",
+        "image": "Pani-Poori.png",
+        "actual_price": 200,
+        "discount": "20",
+        "buying_price": 160,
+        "portion": "6 pieces",
+        "details": {
+            "name": "Pani Poori",
+            "cost": 200,
+            "ingredients": [
+                {
+                    "type": "select_one",
+                    "required": true,
+                    "name": "Pani Poori",
+                    "image": "1.png",
+                    "is_paid": false,
+                    "quantity": 6,
+                    "options": [
+                        {
+                            "name": "Atta"
+                        },
+                        {
+                            "name": "Suji"
+                        }
+                    ]
+                },
+                {
+                    "type": "non_selectable",
+                    "name": "potato",
+                    "image": "1.png"
+                },
+                {
+                    "type": "non_selectable",
+                    "name": "peas",
+                    "image": "1.png"
+                },
+                {
+                    "type": "non_selectable",
+                    "name": "Sweet, Sour, Ginger",
+                    "image": "1.png"
+                },
+                {
+                    "type": "select_multiple",
+                    "required": false,
+                    "name": "Add on",
+                    "image": "1.png",
+                    "is_paid": true,
+                    "options": [
+                        {
+                            "name": "Sweet Water",
+                            "cost": 10
+                        },
+                        {
+                            "name": "Sour Water",
+                            "cost": 10
+                        },
+                        {
+                            "name": "Ginger water",
+                            "cost": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Podu",
+        "image": "podu.png",
+        "actual_price": 50,
+        "discount": "10",
+        "buying_price": 45,
+        "portion": "2 pieces",
+        "details": {
+            "name": "Podu",
+            "cost": 45,
+            "ingredients": [
+                {
+                    "type": "select_one",
+                    "name": "Choice Of Rice",
+                    "image": "1.png",
+                    "is_paid": false,
+                    "required": true,
+                    "quantity": 8,
+                    "options": [
+                        {
+                            "name": "Basmati Rice"
+                        },
+                        {
+                            "name": "Brown Rice"
+                        }
+                    ]
+                },
+                {
+                    "type": "select_multiple",
+                    "name": "Add on",
+                    "image": "1.png",
+                    "is_paid": true,
+                    "required": false,
+                    "options": [
+                        {
+                            "name": "Carrot",
+                            "cost": 2
+                        },
+                        {
+                            "name": "Onion",
+                            "cost": 4
+                        },
+                        {
+                            "name": "Cucumber",
+                            "cost": 6
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Sub",
+        "image": "Sub.png",
+        "actual_price": 30,
+        "discount": "",
+        "buying_price": 30,
+        "portion": "8 pieces",
+        "details": {
+            "name": "Sub",
+            "cost": 200,
+            "ingredients": [
+                {
+                    "type": "select_multiple",
+                    "name": "tikki",
+                    "image": "1.png",
+                    "is_paid": true,
+                    "required": true,
+                    "quantity": 1,
+                    "options": [
+                        {
+                            "name": "Allo Tikki",
+                            "cost": 10
+                        },
+                        {
+                            "name": "Beans",
+                            "cost": 20
+                        },
+                        {
+                            "name": "Nutri",
+                            "cost": 25
+                        }
+                    ]
+                },
+                {
+                    "type": "select_one",
+                    "name": "Bread",
+                    "image": "1.png",
+                    "is_paid": false,
+                    "required": true,
+                    "options": [
+                        "brown",
+                        "white",
+                        "multigrain"
+                    ]
+                },
+                {
+                    "type": "select_multiple",
+                    "name": "Sauce",
+                    "image": "1.png",
+                    "is_paid": false,
+                    "required": false,
+                    "options": [
+                        "Tomato Ketchup",
+                        "Thousand Island",
+                        "Myonese"
+                    ]
+                },
+                {
+                    "type": "select_multiple",
+                    "name": "Add on",
+                    "image": "1.png",
+                    "is_paid": true,
+                    "required": false,
+                    "options": [
+                        {
+                            "name": "Extra Cheese",
+                            "cost": 20
+                        },
+                        {
+                            "name": "Molten chocolate",
+                            "cost": 20
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vegetable Salad",
+        "image": "Vegetable-Salad.png",
+        "actual_price": 10,
+        "discount": "",
+        "buying_price": 5,
+        "portion": "8 pieces",
+        "details": {
+            "name": "Vegetable Salad",
+            "cost": 100,
+            "ingredients": [
+                {
+                    "type": "select_one",
+                    "name": "Choose Veggies",
+                    "image": "1.png",
+                    "is_paid": false,
+                    "required": true,
+                    "quantity": 8,
+                    "options": [
+                        {
+                            "name": "Basmati Rice"
+                        },
+                        {
+                            "name": "Brown Rice"
+                        }
+                    ]
+                },
+                {
+                    "type": "select_multiple",
+                    "name": "Sauce",
+                    "image": "1.png",
+                    "is_paid": false,
+                    "required": false,
+                    "options": [
+                        "Tomato Ketchup",
+                        "Thousand Island",
+                        "Myonese"
+                    ]
+                }
+            ]
+        }
+    }
+]
+
+
+
+
