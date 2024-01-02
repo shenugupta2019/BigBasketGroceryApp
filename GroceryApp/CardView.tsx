@@ -1,14 +1,19 @@
 
 import React, { useState } from 'react';
-import { FlatList, View, Text, TouchableOpacity, Dimensions, StyleSheet,Image } from 'react-native';
+import { FlatList, View, Text, TouchableOpacity, Dimensions, StyleSheet,Image,Pressable } from 'react-native';
 const { width } = Dimensions.get('window');
-const CardView = (productsData: any) => {
 
-    console.log('shenu data', productsData.productsData);
+
+const CardView = ({productsData,
+    handler,
+}) => {
+    console.log('shenu data 456', productsData.item.name);
     return (
+        <Pressable
+        onPress= {handler}> 
         <View style={styles.cardView}>
             <View style={styles.leftView}>
-            <Text style={styles.textView}>{productsData.productsData.discount}</Text>
+            <Text style={styles.textView}>{productsData.item.discount}</Text>
             <View style={styles.imageCardView}>
             <Image
           style={styles.imageView}
@@ -17,18 +22,17 @@ const CardView = (productsData: any) => {
       </View>
 
             </View>
-
             <View style={styles.rightView}>
-            <Text style={styles.labelText}>{productsData.productsData.name}</Text>
+            <Text style={styles.labelText}>{productsData.item.name}</Text>
             <View style={styles.tagView}>
-            <Text style={styles.tagText}>{productsData.productsData.portion}</Text>
+            <Text style={styles.tagText}>{productsData.item.portion}</Text>
             </View>
-            <Text style={styles.priceText}>{productsData.productsData.buying_price}</Text>
+            <Text style={styles.priceText}>{productsData.item.buying_price}</Text>
             </View>
 
         </View>
+        </Pressable>
     )
-
 };
 
 const styles = StyleSheet.create({
@@ -111,4 +115,5 @@ const styles = StyleSheet.create({
     }
 });
 
-export default CardView;
+export default React.memo(CardView);
+

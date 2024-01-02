@@ -4,7 +4,10 @@ const { width } = Dimensions.get('window');
 import CardView from './CardView';
 
 
-const ProductsScreen = ({navigation}) => {
+const ProductsScreen = ({navigation,route}) => {
+    const { itemId, otherParam } = route.params;
+
+    console.log('shenu params',itemId,otherParam);
     return (
         <View style={styles.container}>
         </View>

@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import React, {useState, useEffect,useCallback} from 'react';
 import {
   FlatList,
   View,
@@ -49,8 +49,13 @@ const ListView = ({navigation}) => {
     }
   };
 
-  const renderBrands = ({item}) => {
-    return <CardView productsData={item} />;
+  const addChildData = useCallback(() => {
+    console.log('shenu flat list item pressed');
+  }, []);
+
+  const renderBrands = (item) => {
+    console.log('data load', item);
+    return <CardView productsData={item} handler={addChildData} />;
   };
 
   const onBackgroundPressed = () => {
@@ -72,7 +77,7 @@ const ListView = ({navigation}) => {
         data={filteredDataSource}
         renderItem={renderBrands}
         scrollEnabled={true}
-        onTouchStart={onBackgroundPressed}
+        // onTouchStart={onBackgroundPressed}
       />
     </View>
   );
