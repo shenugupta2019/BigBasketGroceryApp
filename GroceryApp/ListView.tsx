@@ -1,4 +1,4 @@
-import React, {useState, useEffect,useCallback} from 'react';
+import React, {useState, useEffect,useCallback, Suspense,lazy} from 'react';
 import {
   FlatList,
   View,
@@ -9,7 +9,8 @@ import {
   TextInput,
 } from 'react-native';
 const {width} = Dimensions.get('window');
-import CardView from './CardView';
+const CardView = lazy(() => import ("./CardView"));
+const SignUpForm = lazy(() => import ("./SignUpForm"));
 import ProductsScreen from './ProductsScreen';
 import productsJsonData from './products.json';
 import {ProductList} from './ProductDetails';
@@ -53,15 +54,24 @@ const ListView = ({navigation}) => {
     console.log('shenu flat list item pressed');
   }, []);
 
+
   const renderBrands = (item) => {
     console.log('data load', item);
-    return <CardView productsData={item} handler={addChildData} />;
+    return (
+      <View style={styles.container}>
+        <Suspense fallback={() => <Text>Loading ....</Text>}>
+        <CardView productsData={item} handler={addChildData} />
+        </Suspense>
+      </View>
+    );
   };
+   
 
   const onBackgroundPressed = () => {
     navigation.navigate('ProductsScreen');
     console.log('shenu flat list item pressed');
   };
+
 
   return (
     <View style={styles.container}>
@@ -80,8 +90,9 @@ const ListView = ({navigation}) => {
         // onTouchStart={onBackgroundPressed}
       />
     </View>
-  );
+  )
 };
+
 
 const styles = StyleSheet.create({
   container: {
@@ -134,7 +145,3 @@ const styles = StyleSheet.create({
 });
 
 export default ListView;
-
-function filter(fullData: never[], arg1: (user: any) => boolean) {
-  throw new Error('Function not implemented.');
-}

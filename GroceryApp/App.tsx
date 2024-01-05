@@ -31,6 +31,7 @@ import {Home} from './HomeScreen/Home'
 import MultiSelectList from './MultiSelectList';
 import ListView from './ListView';
 import ProductsScreen from './ProductsScreen';
+import SignUpForm from './SignUpForm';
 
 
 function App(): JSX.Element {
@@ -48,6 +49,10 @@ function App(): JSX.Element {
           name="ListView"
           component={ListView}
         />
+         {/* <Stack.Screen
+          name="SignUpForm"
+          component={SignUpForm}
+        /> */}
           <Stack.Screen name="ProductsScreen" component={ProductsScreen} />
       </Stack.Navigator>
     </NavigationContainer>
