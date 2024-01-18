@@ -1,7 +1,7 @@
 import React from 'react';
-import { View, Text, TextInput, Button, StyleSheet } from 'react-native';
-import { homeStyle } from './HomeScreen/Home-styles';
-import { useState } from 'react';
+import {View, TextInput, Button, StyleSheet} from 'react-native';
+import {homeStyle} from './HomeScreen/Home-styles';
+import {useState} from 'react';
 
 export const SignUpForm = () => {
   const [number, setNumber] = useState('');
@@ -95,7 +95,3 @@ const fetchData  = async() => {
 
 export default SignUpForm;
 
-
-const styles = StyleSheet.create({
-
-});

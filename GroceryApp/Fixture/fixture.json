@@ -1,0 +1,8936 @@
+{
+	"groups": [
+		{
+			"id": 101,
+			"name": "Group 101",
+			"isRequired": true,
+			"itemIds": [
+				25842,
+				25843
+			],
+			"isRead": true,
+			"isOwnGroup": false
+		},
+		{
+			"id": 70,
+			"name": "Group 70",
+			"isRequired": true,
+			"itemIds": [
+				27919,
+				27920
+			],
+			"isRead": true,
+			"isOwnGroup": false
+		},
+		{
+			"id": 100,
+			"name": "Group 100",
+			"isRequired": true,
+			"itemIds": [
+				41176,
+				41177
+			],
+			"isRead": true,
+			"isOwnGroup": false
+		},
+		{
+			"id": 99,
+			"name": "Group 99",
+			"isRequired": false,
+			"itemIds": [
+				42923,
+				42924,
+				25853
+			],
+			"isRead": true,
+			"isOwnGroup": true
+		}
+	],
+	"items": [
+		{
+			"id": 25842,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				1334
+			],
+			"itemGroupId": 101
+		},
+		{
+			"id": 25843,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 10,
+			"totalUnits": 48,
+			"programIds": [
+				982
+			],
+			"itemGroupId": 101
+		},
+		{
+			"id": 25850,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "08:00:00",
+			"cost": 240,
+			"totalUnits": 0,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25851,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 30,
+			"totalUnits": 130,
+			"programIds": [
+				8
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25853,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 130,
+			"totalUnits": 130,
+			"programIds": [
+				121
+			],
+			"itemGroupId": 99
+		},
+		{
+			"id": 25866,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 45,
+			"totalUnits": 130,
+			"programIds": [
+				1035
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25868,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 65,
+			"totalUnits": 120,
+			"programIds": [
+				2334
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25875,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 95,
+			"totalUnits": 130,
+			"programIds": [
+				2445
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25881,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 140,
+			"totalUnits": 0,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25882,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 80,
+			"totalUnits": 0,
+			"programIds": [
+				2332
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25883,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "08:00:00",
+			"cost": 165,
+			"totalUnits": 130,
+			"programIds": [
+				54
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25884,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 70,
+			"totalUnits": 130,
+			"programIds": [
+				2528
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25892,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 55,
+			"totalUnits": 0,
+			"programIds": [
+				2352
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25907,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:30:00",
+			"endTime": "08:00:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				982
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25910,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:30:00",
+			"endTime": "08:00:00",
+			"cost": 35,
+			"totalUnits": 130,
+			"programIds": [
+				8
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25913,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:30:00",
+			"endTime": "08:00:00",
+			"cost": 170,
+			"totalUnits": 0,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25914,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:30:00",
+			"endTime": "08:00:00",
+			"cost": 55,
+			"totalUnits": 0,
+			"programIds": [
+				463
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25927,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "09:00:00",
+			"cost": 175,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25937,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "08:30:00",
+			"cost": 165,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25939,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "09:00:00",
+			"cost": 90,
+			"totalUnits": 130,
+			"programIds": [
+				2241
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25943,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "09:00:00",
+			"cost": 190,
+			"totalUnits": 130,
+			"programIds": [
+				388
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25947,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "08:30:00",
+			"cost": 380,
+			"totalUnits": 26,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25955,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "08:30:00",
+			"cost": 115,
+			"totalUnits": 129,
+			"programIds": [
+				2159
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25966,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "08:30:00",
+			"cost": 35,
+			"totalUnits": 130,
+			"programIds": [
+				445
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25967,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "09:00:00",
+			"cost": 210,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25973,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "09:00:00",
+			"cost": 150,
+			"totalUnits": 130,
+			"programIds": [
+				542
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25982,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "10:00:00",
+			"cost": 190,
+			"totalUnits": 130,
+			"programIds": [
+				1820
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25983,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "09:00:00",
+			"cost": 385,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25992,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 40,
+			"totalUnits": 130,
+			"programIds": [
+				3261
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25996,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 145,
+			"totalUnits": 130,
+			"programIds": [
+				17
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 25997,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 90,
+			"totalUnits": 130,
+			"programIds": [
+				121
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26003,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				8
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26014,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 95,
+			"totalUnits": 130,
+			"programIds": [
+				2220
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26016,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 85,
+			"totalUnits": 0,
+			"programIds": [
+				269
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26018,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 30,
+			"totalUnits": 130,
+			"programIds": [
+				248
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26023,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 90,
+			"totalUnits": 130,
+			"programIds": [
+				3002
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26024,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:30:00",
+			"endTime": "09:00:00",
+			"cost": 185,
+			"totalUnits": 130,
+			"programIds": [
+				564
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26028,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "09:30:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				8
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26032,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 155,
+			"totalUnits": 91,
+			"programIds": [
+				2545
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26059,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 250,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26070,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 315,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26074,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:30:00",
+			"cost": 805,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26078,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				25
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26081,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 475,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26085,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 145,
+			"totalUnits": 0,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26093,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "09:30:00",
+			"cost": 535,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26103,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				191
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26109,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 15,
+			"totalUnits": 0,
+			"programIds": [
+				1183
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26110,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 5,
+			"totalUnits": 130,
+			"programIds": [
+				1082
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26112,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 360,
+			"totalUnits": 130,
+			"programIds": [
+				3033
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26128,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:00:00",
+			"endTime": "10:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				164
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26133,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:30:00",
+			"endTime": "10:00:00",
+			"cost": 970,
+			"totalUnits": 130,
+			"programIds": [
+				2456
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26140,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:30:00",
+			"endTime": "10:00:00",
+			"cost": 530,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26151,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:30:00",
+			"endTime": "10:00:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				2511
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26162,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "09:30:00",
+			"endTime": "10:00:00",
+			"cost": 300,
+			"totalUnits": 130,
+			"programIds": [
+				2451
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26167,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:30:00",
+			"cost": 215,
+			"totalUnits": 65,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26169,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 565,
+			"totalUnits": 130,
+			"programIds": [
+				3033
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26172,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 50,
+			"totalUnits": 130,
+			"programIds": [
+				2472
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26184,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 365,
+			"totalUnits": 130,
+			"programIds": [
+				2450
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26188,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				1082
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26190,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 45,
+			"totalUnits": 130,
+			"programIds": [
+				2552
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26191,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 45,
+			"totalUnits": 130,
+			"programIds": [
+				2187
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26194,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				2511
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26207,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 10,
+			"totalUnits": 104,
+			"programIds": [
+				3074
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26212,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 5,
+			"totalUnits": 130,
+			"programIds": [
+				999
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26223,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 900,
+			"totalUnits": 130,
+			"programIds": [
+				2456
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26226,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 305,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26235,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				2514
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26237,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 5,
+			"totalUnits": 49,
+			"programIds": [
+				2114
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26245,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				2192
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26246,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				2344
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26249,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "11:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				2596
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26259,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 55,
+			"totalUnits": 130,
+			"programIds": [
+				2488
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26260,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:00:00",
+			"endTime": "10:30:00",
+			"cost": 485,
+			"totalUnits": 130,
+			"programIds": [
+				2459
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26268,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:30:00",
+			"endTime": "11:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				860
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26269,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:30:00",
+			"endTime": "11:00:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				1183
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26270,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:30:00",
+			"endTime": "11:00:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				999
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26282,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:30:00",
+			"endTime": "11:00:00",
+			"cost": 35,
+			"totalUnits": 130,
+			"programIds": [
+				455
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26295,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:30:00",
+			"endTime": "11:00:00",
+			"cost": 495,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26296,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:30:00",
+			"endTime": "11:30:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				2531
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26299,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:30:00",
+			"endTime": "11:00:00",
+			"cost": 80,
+			"totalUnits": 130,
+			"programIds": [
+				2542
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26302,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "10:30:00",
+			"endTime": "11:00:00",
+			"cost": 5,
+			"totalUnits": 130,
+			"programIds": [
+				3124
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26321,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "11:30:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				158
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26323,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 595,
+			"totalUnits": 130,
+			"programIds": [
+				2584
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26325,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 280,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26332,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 185,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26362,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 735,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26365,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 255,
+			"totalUnits": 130,
+			"programIds": [
+				523
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26370,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "11:30:00",
+			"cost": 230,
+			"totalUnits": 130,
+			"programIds": [
+				14
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26371,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "11:30:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				2531
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26377,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "11:30:00",
+			"cost": 65,
+			"totalUnits": 130,
+			"programIds": [
+				2550
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26386,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 760,
+			"totalUnits": 130,
+			"programIds": [
+				2446
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26388,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "11:30:00",
+			"cost": 315,
+			"totalUnits": 130,
+			"programIds": [
+				2221
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26394,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 5,
+			"totalUnits": 130,
+			"programIds": [
+				3124
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26405,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "11:30:00",
+			"cost": 245,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26406,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 75,
+			"totalUnits": 130,
+			"programIds": [
+				2509
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26415,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				158
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26417,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:00:00",
+			"endTime": "12:00:00",
+			"cost": 215,
+			"totalUnits": 130,
+			"programIds": [
+				14
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26426,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 270,
+			"totalUnits": 130,
+			"programIds": [
+				195
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26431,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 10,
+			"totalUnits": 0,
+			"programIds": [
+				1324
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26432,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				3271
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26434,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 210,
+			"totalUnits": 130,
+			"programIds": [
+				836
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26435,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 440,
+			"totalUnits": 130,
+			"programIds": [
+				1929
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26436,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 340,
+			"totalUnits": 130,
+			"programIds": [
+				2589
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26444,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 15,
+			"totalUnits": 0,
+			"programIds": [
+				3255
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26446,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:30:00",
+			"cost": 585,
+			"totalUnits": 130,
+			"programIds": [
+				2504
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26456,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				11
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26461,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 550,
+			"totalUnits": 130,
+			"programIds": [
+				2601
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26462,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "11:30:00",
+			"endTime": "12:00:00",
+			"cost": 220,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26484,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "12:30:00",
+			"cost": 145,
+			"totalUnits": 130,
+			"programIds": [
+				2455
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26486,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "12:30:00",
+			"cost": 235,
+			"totalUnits": 130,
+			"programIds": [
+				2460
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26508,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "12:30:00",
+			"cost": 195,
+			"totalUnits": 53,
+			"programIds": [
+				55
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26514,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "13:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				3271
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26515,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "13:00:00",
+			"cost": 320,
+			"totalUnits": 130,
+			"programIds": [
+				2510
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26539,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "13:00:00",
+			"cost": 190,
+			"totalUnits": 130,
+			"programIds": [
+				2546
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26540,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "14:00:00",
+			"cost": 380,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26547,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "12:30:00",
+			"cost": 130,
+			"totalUnits": 130,
+			"programIds": [
+				1287
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26550,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "13:00:00",
+			"cost": 300,
+			"totalUnits": 130,
+			"programIds": [
+				1694
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26552,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "13:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				11
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26553,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:00:00",
+			"endTime": "13:00:00",
+			"cost": 10,
+			"totalUnits": 0,
+			"programIds": [
+				2352
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26568,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:30:00",
+			"endTime": "13:00:00",
+			"cost": 5,
+			"totalUnits": 27,
+			"programIds": [
+				1198
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26578,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "12:30:00",
+			"endTime": "13:00:00",
+			"cost": 285,
+			"totalUnits": 130,
+			"programIds": [
+				2535
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26588,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:00:00",
+			"endTime": "14:00:00",
+			"cost": 160,
+			"totalUnits": 130,
+			"programIds": [
+				228
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26606,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:00:00",
+			"endTime": "14:00:00",
+			"cost": 245,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26615,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:00:00",
+			"endTime": "14:00:00",
+			"cost": 25,
+			"totalUnits": 0,
+			"programIds": [
+				19
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26617,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:00:00",
+			"endTime": "14:00:00",
+			"cost": 460,
+			"totalUnits": 130,
+			"programIds": [
+				2599
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26620,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:00:00",
+			"endTime": "14:00:00",
+			"cost": 245,
+			"totalUnits": 130,
+			"programIds": [
+				2597
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26627,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:00:00",
+			"endTime": "14:00:00",
+			"cost": 20,
+			"totalUnits": 0,
+			"programIds": [
+				2376
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26638,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:00:00",
+			"endTime": "13:30:00",
+			"cost": 310,
+			"totalUnits": 130,
+			"programIds": [
+				60
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26645,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:30:00",
+			"endTime": "14:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				1326
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26646,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:30:00",
+			"endTime": "14:00:00",
+			"cost": 5,
+			"totalUnits": 130,
+			"programIds": [
+				1198
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26647,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:30:00",
+			"endTime": "14:00:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				2215
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26648,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:30:00",
+			"endTime": "14:00:00",
+			"cost": 350,
+			"totalUnits": 130,
+			"programIds": [
+				2547
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26658,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:30:00",
+			"endTime": "14:00:00",
+			"cost": 180,
+			"totalUnits": 130,
+			"programIds": [
+				3264
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26660,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:30:00",
+			"endTime": "14:00:00",
+			"cost": 25,
+			"totalUnits": 0,
+			"programIds": [
+				3268
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26661,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:30:00",
+			"endTime": "14:00:00",
+			"cost": 175,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26663,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "13:30:00",
+			"endTime": "14:00:00",
+			"cost": 170,
+			"totalUnits": 104,
+			"programIds": [
+				359
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26678,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "14:30:00",
+			"cost": 105,
+			"totalUnits": 130,
+			"programIds": [
+				2215
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26684,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 160,
+			"totalUnits": 130,
+			"programIds": [
+				1930
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26697,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 5,
+			"totalUnits": 110,
+			"programIds": [
+				1256
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26701,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "14:30:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				198
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26703,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 50,
+			"totalUnits": 130,
+			"programIds": [
+				2376
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26706,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26708,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 345,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26709,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 490,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26713,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "14:30:00",
+			"cost": 170,
+			"totalUnits": 130,
+			"programIds": [
+				1450
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26714,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 205,
+			"totalUnits": 130,
+			"programIds": [
+				2348
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26715,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 185,
+			"totalUnits": 130,
+			"programIds": [
+				228
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26734,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 25,
+			"totalUnits": 0,
+			"programIds": [
+				397
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26742,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:00:00",
+			"endTime": "15:00:00",
+			"cost": 65,
+			"totalUnits": 0,
+			"programIds": [
+				3135
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26753,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:30:00",
+			"endTime": "15:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				69
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26756,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "14:30:00",
+			"endTime": "15:00:00",
+			"cost": 30,
+			"totalUnits": 115,
+			"programIds": [
+				25
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26780,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "15:30:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				3262
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26785,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "16:00:00",
+			"cost": 160,
+			"totalUnits": 130,
+			"programIds": [
+				179
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26787,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "16:00:00",
+			"cost": 110,
+			"totalUnits": 130,
+			"programIds": [
+				2965
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26790,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "16:00:00",
+			"cost": 275,
+			"totalUnits": 130,
+			"programIds": [
+				1453
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26795,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "16:00:00",
+			"cost": 220,
+			"totalUnits": 130,
+			"programIds": [
+				2352
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26808,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "16:00:00",
+			"cost": 30,
+			"totalUnits": 129,
+			"programIds": [
+				21
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26824,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "16:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				3232
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26825,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "16:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				3271
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26835,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "15:30:00",
+			"cost": 175,
+			"totalUnits": 130,
+			"programIds": [
+				2579
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26839,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "15:30:00",
+			"cost": 290,
+			"totalUnits": 130,
+			"programIds": [
+				3165
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26847,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:30:00",
+			"endTime": "16:00:00",
+			"cost": 60,
+			"totalUnits": 130,
+			"programIds": [
+				3261
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26863,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "16:30:00",
+			"cost": 140,
+			"totalUnits": 130,
+			"programIds": [
+				24
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26866,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "16:30:00",
+			"cost": 90,
+			"totalUnits": 0,
+			"programIds": [
+				2331
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26871,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "17:00:00",
+			"cost": 10,
+			"totalUnits": 106,
+			"programIds": [
+				1400
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26872,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "17:00:00",
+			"cost": 70,
+			"totalUnits": 128,
+			"programIds": [
+				2531
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26880,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "17:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				3271
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26882,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "17:00:00",
+			"cost": 65,
+			"totalUnits": 129,
+			"programIds": [
+				3261
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26895,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "17:00:00",
+			"cost": 195,
+			"totalUnits": 130,
+			"programIds": [
+				1449
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26898,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "17:00:00",
+			"cost": 80,
+			"totalUnits": 130,
+			"programIds": [
+				3192
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26905,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "17:00:00",
+			"cost": 10,
+			"totalUnits": 112,
+			"programIds": [
+				1400
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26908,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "16:30:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				1333
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26930,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:00:00",
+			"endTime": "17:00:00",
+			"cost": 125,
+			"totalUnits": 130,
+			"programIds": [
+				2376
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26939,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:30:00",
+			"endTime": "17:00:00",
+			"cost": 170,
+			"totalUnits": 130,
+			"programIds": [
+				2591
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26940,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:30:00",
+			"endTime": "17:00:00",
+			"cost": 120,
+			"totalUnits": 0,
+			"programIds": [
+				455
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26942,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:30:00",
+			"endTime": "17:00:00",
+			"cost": 220,
+			"totalUnits": 130,
+			"programIds": [
+				2598
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26947,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "16:30:00",
+			"endTime": "17:00:00",
+			"cost": 5,
+			"totalUnits": 0,
+			"programIds": [
+				162
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26951,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "18:00:00",
+			"cost": 205,
+			"totalUnits": 0,
+			"programIds": [
+				68
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26966,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "18:00:00",
+			"cost": 105,
+			"totalUnits": 130,
+			"programIds": [
+				20
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26974,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "18:00:00",
+			"cost": 90,
+			"totalUnits": 0,
+			"programIds": [
+				2426
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26978,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "18:00:00",
+			"cost": 175,
+			"totalUnits": 0,
+			"programIds": [
+				2415
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26985,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "18:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				1329
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26986,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "19:00:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				1333
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 26988,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "18:00:00",
+			"cost": 35,
+			"totalUnits": 0,
+			"programIds": [
+				2913
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27007,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "18:00:00",
+			"cost": 160,
+			"totalUnits": 0,
+			"programIds": [
+				3263
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27020,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "17:30:00",
+			"cost": 450,
+			"totalUnits": 130,
+			"programIds": [
+				1451
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27024,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:00:00",
+			"endTime": "18:00:00",
+			"cost": 290,
+			"totalUnits": 130,
+			"programIds": [
+				2581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27030,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:30:00",
+			"endTime": "18:00:00",
+			"cost": 80,
+			"totalUnits": 130,
+			"programIds": [
+				20
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27033,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:30:00",
+			"endTime": "18:00:00",
+			"cost": 380,
+			"totalUnits": 130,
+			"programIds": [
+				2580
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27054,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:30:00",
+			"endTime": "18:00:00",
+			"cost": 110,
+			"totalUnits": 130,
+			"programIds": [
+				13
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27055,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "17:30:00",
+			"endTime": "18:00:00",
+			"cost": 270,
+			"totalUnits": 130,
+			"programIds": [
+				24
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27059,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "19:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				162
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27071,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "19:00:00",
+			"cost": 105,
+			"totalUnits": 0,
+			"programIds": [
+				13
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27083,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "19:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				1329
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27084,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "18:30:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				1333
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27086,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "18:30:00",
+			"cost": 320,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27094,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "18:30:00",
+			"cost": 10,
+			"totalUnits": 0,
+			"programIds": [
+				1253
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27098,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "19:00:00",
+			"cost": 690,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27103,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "19:00:00",
+			"cost": 275,
+			"totalUnits": 130,
+			"programIds": [
+				2353
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27105,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "18:30:00",
+			"cost": 155,
+			"totalUnits": 130,
+			"programIds": [
+				2601
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27120,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "19:00:00",
+			"cost": 30,
+			"totalUnits": 0,
+			"programIds": [
+				50
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27132,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:00:00",
+			"endTime": "19:00:00",
+			"cost": 565,
+			"totalUnits": 130,
+			"programIds": [
+				17
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27146,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:30:00",
+			"endTime": "19:00:00",
+			"cost": 5,
+			"totalUnits": 130,
+			"programIds": [
+				1372
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27168,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:30:00",
+			"endTime": "19:00:00",
+			"cost": 35,
+			"totalUnits": 0,
+			"programIds": [
+				50
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27170,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:30:00",
+			"endTime": "19:00:00",
+			"cost": 630,
+			"totalUnits": 130,
+			"programIds": [
+				17
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27173,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:30:00",
+			"endTime": "19:00:00",
+			"cost": 335,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27185,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:30:00",
+			"endTime": "19:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27186,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:30:00",
+			"endTime": "19:00:00",
+			"cost": 1020,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27189,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "18:30:00",
+			"endTime": "19:00:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				1308
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27206,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "19:30:00",
+			"cost": 340,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27213,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 10,
+			"totalUnits": 130,
+			"programIds": [
+				50
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27214,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "19:30:00",
+			"cost": 35,
+			"totalUnits": 130,
+			"programIds": [
+				3184
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27216,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 160,
+			"totalUnits": 130,
+			"programIds": [
+				2597
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27224,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				877
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27227,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 25,
+			"totalUnits": 0,
+			"programIds": [
+				1218
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27229,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "19:30:00",
+			"cost": 875,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27231,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "19:30:00",
+			"cost": 35,
+			"totalUnits": 0,
+			"programIds": [
+				867
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27251,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "19:30:00",
+			"cost": 405,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27268,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:20:00",
+			"cost": 475,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27270,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				1024
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27287,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 55,
+			"totalUnits": 130,
+			"programIds": [
+				877
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27291,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "19:30:00",
+			"cost": 50,
+			"totalUnits": 130,
+			"programIds": [
+				3184
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27301,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 15,
+			"totalUnits": 130,
+			"programIds": [
+				1308
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27302,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				1297
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27304,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:00:00",
+			"endTime": "20:00:00",
+			"cost": 20,
+			"totalUnits": 130,
+			"programIds": [
+				1211
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27307,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:30:00",
+			"endTime": "20:00:00",
+			"cost": 1325,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27313,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:30:00",
+			"endTime": "20:00:00",
+			"cost": 310,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27329,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:30:00",
+			"endTime": "20:00:00",
+			"cost": 55,
+			"totalUnits": 0,
+			"programIds": [
+				1420
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27330,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:30:00",
+			"endTime": "20:00:00",
+			"cost": 35,
+			"totalUnits": 0,
+			"programIds": [
+				1370
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27331,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:30:00",
+			"endTime": "20:00:00",
+			"cost": 620,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27343,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:30:00",
+			"endTime": "20:00:00",
+			"cost": 230,
+			"totalUnits": 130,
+			"programIds": [
+				455
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27347,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:30:00",
+			"endTime": "20:00:00",
+			"cost": 115,
+			"totalUnits": 130,
+			"programIds": [
+				1033
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27352,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "19:30:00",
+			"endTime": "20:00:00",
+			"cost": 45,
+			"totalUnits": 130,
+			"programIds": [
+				1024
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27376,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 695,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27388,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 35,
+			"totalUnits": 86,
+			"programIds": [
+				946
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27394,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 130,
+			"totalUnits": 130,
+			"programIds": [
+				1033
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27407,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "22:01:00",
+			"cost": 315,
+			"totalUnits": 130,
+			"programIds": [
+				49
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27418,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 970,
+			"totalUnits": 130,
+			"programIds": [
+				2357
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27421,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 875,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27424,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 740,
+			"totalUnits": 130,
+			"programIds": [
+				2458
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27426,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 405,
+			"totalUnits": 130,
+			"programIds": [
+				2352
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27437,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 765,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27438,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 125,
+			"totalUnits": 130,
+			"programIds": [
+				3232
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27439,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 100,
+			"totalUnits": 130,
+			"programIds": [
+				1234
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27442,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 1200,
+			"totalUnits": 130,
+			"programIds": [
+				2396
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27451,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 940,
+			"totalUnits": 130,
+			"programIds": [
+				2337
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27458,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 3185,
+			"totalUnits": 130,
+			"programIds": [
+				54
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27464,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 780,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27490,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 595,
+			"totalUnits": 130,
+			"programIds": [
+				2348
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27494,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "22:00:00",
+			"cost": 1995,
+			"totalUnits": 130,
+			"programIds": [
+				7
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27506,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 125,
+			"totalUnits": 130,
+			"programIds": [
+				946
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27507,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 1075,
+			"totalUnits": 130,
+			"programIds": [
+				2330
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27508,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "22:01:00",
+			"cost": 395,
+			"totalUnits": 130,
+			"programIds": [
+				195
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27516,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 165,
+			"totalUnits": 130,
+			"programIds": [
+				1058
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27517,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 120,
+			"totalUnits": 130,
+			"programIds": [
+				1319
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27526,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 1005,
+			"totalUnits": 0,
+			"programIds": [
+				3070
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27530,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 975,
+			"totalUnits": 130,
+			"programIds": [
+				49
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27532,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 55,
+			"totalUnits": 130,
+			"programIds": [
+				1308
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27534,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 275,
+			"totalUnits": 130,
+			"programIds": [
+				2334
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27537,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "22:00:00",
+			"cost": 3805,
+			"totalUnits": 130,
+			"programIds": [
+				2365
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27544,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 1995,
+			"totalUnits": 130,
+			"programIds": [
+				7
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27545,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 3805,
+			"totalUnits": 130,
+			"programIds": [
+				2365
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27568,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 670,
+			"totalUnits": 130,
+			"programIds": [
+				964
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27569,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 2580,
+			"totalUnits": 130,
+			"programIds": [
+				67
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27581,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 105,
+			"totalUnits": 130,
+			"programIds": [
+				946
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27582,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 175,
+			"totalUnits": 130,
+			"programIds": [
+				121
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27584,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 885,
+			"totalUnits": 130,
+			"programIds": [
+				399
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27610,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 925,
+			"totalUnits": 130,
+			"programIds": [
+				2330
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27612,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 630,
+			"totalUnits": 130,
+			"programIds": [
+				1058
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27618,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 1325,
+			"totalUnits": 130,
+			"programIds": [
+				2334
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27623,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 345,
+			"totalUnits": 130,
+			"programIds": [
+				1058
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27634,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 95,
+			"totalUnits": 130,
+			"programIds": [
+				999
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27635,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 135,
+			"totalUnits": 130,
+			"programIds": [
+				3232
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27636,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "22:00:00",
+			"cost": 135,
+			"totalUnits": 130,
+			"programIds": [
+				1007
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27638,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 2650,
+			"totalUnits": 130,
+			"programIds": [
+				1000
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27649,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "22:00:00",
+			"cost": 6235,
+			"totalUnits": 130,
+			"programIds": [
+				1099
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27651,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 4145,
+			"totalUnits": 130,
+			"programIds": [
+				87
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27652,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 2915,
+			"totalUnits": 130,
+			"programIds": [
+				1314
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27653,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 7330,
+			"totalUnits": 130,
+			"programIds": [
+				92
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27656,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "22:00:00",
+			"cost": 4550,
+			"totalUnits": 130,
+			"programIds": [
+				41
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27673,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 955,
+			"totalUnits": 130,
+			"programIds": [
+				2376
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27677,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 1195,
+			"totalUnits": 130,
+			"programIds": [
+				87
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27678,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 1150,
+			"totalUnits": 130,
+			"programIds": [
+				1341
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27687,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "20:30:00",
+			"cost": 105,
+			"totalUnits": 130,
+			"programIds": [
+				1055
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27700,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "22:00:00",
+			"cost": 3615,
+			"totalUnits": 130,
+			"programIds": [
+				3018
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27709,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 4410,
+			"totalUnits": 130,
+			"programIds": [
+				2621
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27727,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 2625,
+			"totalUnits": 130,
+			"programIds": [
+				1007
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27734,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 750,
+			"totalUnits": 130,
+			"programIds": [
+				1301
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27749,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:00:00",
+			"endTime": "21:00:00",
+			"cost": 2395,
+			"totalUnits": 130,
+			"programIds": [
+				87
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27770,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 1435,
+			"totalUnits": 130,
+			"programIds": [
+				7178
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27780,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 2795,
+			"totalUnits": 130,
+			"programIds": [
+				2624
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27781,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 2120,
+			"totalUnits": 130,
+			"programIds": [
+				102
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27783,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 3335,
+			"totalUnits": 130,
+			"programIds": [
+				3017
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27784,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 2520,
+			"totalUnits": 130,
+			"programIds": [
+				33
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27793,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 4350,
+			"totalUnits": 130,
+			"programIds": [
+				3259
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27807,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 3395,
+			"totalUnits": 130,
+			"programIds": [
+				1340
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27812,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 920,
+			"totalUnits": 130,
+			"programIds": [
+				964
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27813,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 760,
+			"totalUnits": 130,
+			"programIds": [
+				85
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27822,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 350,
+			"totalUnits": 130,
+			"programIds": [
+				2580
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27832,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 665,
+			"totalUnits": 130,
+			"programIds": [
+				1302
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27833,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 555,
+			"totalUnits": 130,
+			"programIds": [
+				49
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27834,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:30:00",
+			"endTime": "21:00:00",
+			"cost": 4535,
+			"totalUnits": 130,
+			"programIds": [
+				1270
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27842,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "20:31:00",
+			"endTime": "21:00:00",
+			"cost": 800,
+			"totalUnits": 130,
+			"programIds": [
+				1420
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27882,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 4115,
+			"totalUnits": 130,
+			"programIds": [
+				119
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27883,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:01:00",
+			"cost": 6005,
+			"totalUnits": 130,
+			"programIds": [
+				3193
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27884,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 6235,
+			"totalUnits": 130,
+			"programIds": [
+				1099
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27885,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 4535,
+			"totalUnits": 130,
+			"programIds": [
+				1270
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27886,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 2650,
+			"totalUnits": 130,
+			"programIds": [
+				1000
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27887,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 4550,
+			"totalUnits": 130,
+			"programIds": [
+				7
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27888,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 4565,
+			"totalUnits": 130,
+			"programIds": [
+				84
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27917,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 4410,
+			"totalUnits": 130,
+			"programIds": [
+				3198
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27918,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 3395,
+			"totalUnits": 130,
+			"programIds": [
+				1340
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27919,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 8455,
+			"totalUnits": 130,
+			"programIds": [
+				118
+			],
+			"itemGroupId": 70
+		},
+		{
+			"id": 27920,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 8455,
+			"totalUnits": 130,
+			"programIds": [
+				83
+			],
+			"itemGroupId": 70
+		},
+		{
+			"id": 27921,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 2915,
+			"totalUnits": 130,
+			"programIds": [
+				1314
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27922,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 1150,
+			"totalUnits": 130,
+			"programIds": [
+				1239
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 27923,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 6205,
+			"totalUnits": 130,
+			"programIds": [
+				3301
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28000,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 3925,
+			"totalUnits": 130,
+			"programIds": [
+				1036
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28001,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "23:00:00",
+			"cost": 2200,
+			"totalUnits": 130,
+			"programIds": [
+				3018
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28002,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2760,
+			"totalUnits": 130,
+			"programIds": [
+				3307
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28003,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2760,
+			"totalUnits": 130,
+			"programIds": [
+				3030
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28004,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2520,
+			"totalUnits": 130,
+			"programIds": [
+				2624
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28010,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 3470,
+			"totalUnits": 130,
+			"programIds": [
+				85
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28011,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 4790,
+			"totalUnits": 130,
+			"programIds": [
+				65
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28012,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 1240,
+			"totalUnits": 130,
+			"programIds": [
+				189
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28013,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 3470,
+			"totalUnits": 130,
+			"programIds": [
+				120
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28014,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 4790,
+			"totalUnits": 130,
+			"programIds": [
+				120
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28015,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2670,
+			"totalUnits": 130,
+			"programIds": [
+				1228
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28016,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 1240,
+			"totalUnits": 130,
+			"programIds": [
+				1215
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28017,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 1195,
+			"totalUnits": 130,
+			"programIds": [
+				2379
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28091,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 135,
+			"totalUnits": 130,
+			"programIds": [
+				999
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28092,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 130,
+			"totalUnits": 118,
+			"programIds": [
+				1007
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28096,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 4235,
+			"totalUnits": 130,
+			"programIds": [
+				955
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28100,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 4470,
+			"totalUnits": 130,
+			"programIds": [
+				1061
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28112,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 155,
+			"totalUnits": 130,
+			"programIds": [
+				1055
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28125,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 1045,
+			"totalUnits": 130,
+			"programIds": [
+				7178
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28134,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 855,
+			"totalUnits": 130,
+			"programIds": [
+				964
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28139,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 1470,
+			"totalUnits": 130,
+			"programIds": [
+				1007
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28142,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 410,
+			"totalUnits": 130,
+			"programIds": [
+				1234
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28144,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 625,
+			"totalUnits": 130,
+			"programIds": [
+				49
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28145,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 1900,
+			"totalUnits": 130,
+			"programIds": [
+				1091
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28155,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 4745,
+			"totalUnits": 130,
+			"programIds": [
+				3194
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28156,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 4235,
+			"totalUnits": 130,
+			"programIds": [
+				955
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28157,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "23:00:00",
+			"cost": 1900,
+			"totalUnits": 130,
+			"programIds": [
+				1091
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28158,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 4470,
+			"totalUnits": 130,
+			"programIds": [
+				3199
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28159,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 2910,
+			"totalUnits": 130,
+			"programIds": [
+				2621
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28175,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 3305,
+			"totalUnits": 130,
+			"programIds": [
+				3310
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28199,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2910,
+			"totalUnits": 130,
+			"programIds": [
+				2621
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28201,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 130,
+			"totalUnits": 130,
+			"programIds": [
+				1302
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28202,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 200,
+			"totalUnits": 130,
+			"programIds": [
+				3232
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28203,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 150,
+			"totalUnits": 130,
+			"programIds": [
+				999
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28216,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2730,
+			"totalUnits": 130,
+			"programIds": [
+				3024
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28217,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 4245,
+			"totalUnits": 130,
+			"programIds": [
+				1059
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28225,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "21:30:00",
+			"cost": 3555,
+			"totalUnits": 130,
+			"programIds": [
+				1222
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28231,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2505,
+			"totalUnits": 130,
+			"programIds": [
+				2377
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28237,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 6225,
+			"totalUnits": 130,
+			"programIds": [
+				966
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28261,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "23:00:00",
+			"cost": 2840,
+			"totalUnits": 130,
+			"programIds": [
+				3150
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28262,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2485,
+			"totalUnits": 130,
+			"programIds": [
+				3112
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28263,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 2265,
+			"totalUnits": 130,
+			"programIds": [
+				227
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28274,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:00:00",
+			"endTime": "22:00:00",
+			"cost": 610,
+			"totalUnits": 130,
+			"programIds": [
+				85
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28275,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:01:00",
+			"endTime": "22:00:00",
+			"cost": 3145,
+			"totalUnits": 130,
+			"programIds": [
+				1303
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28289,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 890,
+			"totalUnits": 130,
+			"programIds": [
+				2376
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28305,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 610,
+			"totalUnits": 130,
+			"programIds": [
+				1302
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28307,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 455,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28309,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 1535,
+			"totalUnits": 130,
+			"programIds": [
+				964
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28311,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 2880,
+			"totalUnits": 130,
+			"programIds": [
+				878
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28313,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 1310,
+			"totalUnits": 130,
+			"programIds": [
+				3030
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28317,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 4585,
+			"totalUnits": 130,
+			"programIds": [
+				29
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28322,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 2765,
+			"totalUnits": 130,
+			"programIds": [
+				1341
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28328,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 1295,
+			"totalUnits": 130,
+			"programIds": [
+				1342
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28338,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 5930,
+			"totalUnits": 130,
+			"programIds": [
+				92
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28339,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "21:30:00",
+			"endTime": "22:00:00",
+			"cost": 3430,
+			"totalUnits": 130,
+			"programIds": [
+				2623
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28360,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 910,
+			"totalUnits": 130,
+			"programIds": [
+				1301
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28362,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 505,
+			"totalUnits": 130,
+			"programIds": [
+				1420
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28394,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 3875,
+			"totalUnits": 130,
+			"programIds": [
+				3259
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28401,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 735,
+			"totalUnits": 130,
+			"programIds": [
+				49
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28422,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "22:30:00",
+			"cost": 6225,
+			"totalUnits": 130,
+			"programIds": [
+				966
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28423,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4245,
+			"totalUnits": 130,
+			"programIds": [
+				1058
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28424,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2885,
+			"totalUnits": 130,
+			"programIds": [
+				2357
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28425,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4585,
+			"totalUnits": 130,
+			"programIds": [
+				7279
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28443,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 3555,
+			"totalUnits": 130,
+			"programIds": [
+				3290
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28444,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "22:30:00",
+			"cost": 3430,
+			"totalUnits": 130,
+			"programIds": [
+				2623
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28445,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 6135,
+			"totalUnits": 130,
+			"programIds": [
+				1061
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28446,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2840,
+			"totalUnits": 130,
+			"programIds": [
+				1273
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28447,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2485,
+			"totalUnits": 130,
+			"programIds": [
+				3289
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28448,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 1295,
+			"totalUnits": 130,
+			"programIds": [
+				1239
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28449,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2765,
+			"totalUnits": 130,
+			"programIds": [
+				1341
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28508,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 1310,
+			"totalUnits": 130,
+			"programIds": [
+				33
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28509,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 1310,
+			"totalUnits": 130,
+			"programIds": [
+				1305
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28510,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2835,
+			"totalUnits": 130,
+			"programIds": [
+				3308
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28511,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2835,
+			"totalUnits": 130,
+			"programIds": [
+				3309
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28512,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4235,
+			"totalUnits": 130,
+			"programIds": [
+				3039
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28513,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4235,
+			"totalUnits": 130,
+			"programIds": [
+				3306
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28514,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4235,
+			"totalUnits": 130,
+			"programIds": [
+				1392
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28515,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2265,
+			"totalUnits": 130,
+			"programIds": [
+				1305
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28524,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2135,
+			"totalUnits": 130,
+			"programIds": [
+				1402
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28525,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 5615,
+			"totalUnits": 130,
+			"programIds": [
+				1227
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28526,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 3880,
+			"totalUnits": 130,
+			"programIds": [
+				2620
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28593,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 3945,
+			"totalUnits": 130,
+			"programIds": [
+				3067
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28599,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 185,
+			"totalUnits": 130,
+			"programIds": [
+				999
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28600,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4060,
+			"totalUnits": 130,
+			"programIds": [
+				1059
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28606,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2190,
+			"totalUnits": 130,
+			"programIds": [
+				3312
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28615,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 1325,
+			"totalUnits": 130,
+			"programIds": [
+				964
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28622,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4455,
+			"totalUnits": 130,
+			"programIds": [
+				3007
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28631,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 790,
+			"totalUnits": 130,
+			"programIds": [
+				49
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28640,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4455,
+			"totalUnits": 130,
+			"programIds": [
+				3007
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28641,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 4060,
+			"totalUnits": 130,
+			"programIds": [
+				3300
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28643,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 5730,
+			"totalUnits": 130,
+			"programIds": [
+				3237
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28661,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2190,
+			"totalUnits": 130,
+			"programIds": [
+				2617
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28662,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:00:00",
+			"endTime": "23:00:00",
+			"cost": 2190,
+			"totalUnits": 130,
+			"programIds": [
+				877
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28663,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:01:00",
+			"endTime": "23:00:00",
+			"cost": 2190,
+			"totalUnits": 130,
+			"programIds": [
+				3312
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28667,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:01:00",
+			"endTime": "23:00:00",
+			"cost": 2770,
+			"totalUnits": 130,
+			"programIds": [
+				7178
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28688,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:30:00",
+			"endTime": "23:00:00",
+			"cost": 100,
+			"totalUnits": 130,
+			"programIds": [
+				3232
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28689,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:30:00",
+			"endTime": "23:00:00",
+			"cost": 130,
+			"totalUnits": 130,
+			"programIds": [
+				1372
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28690,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:30:00",
+			"endTime": "23:00:00",
+			"cost": 115,
+			"totalUnits": 130,
+			"programIds": [
+				3124
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28697,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:30:00",
+			"endTime": "23:00:00",
+			"cost": 3115,
+			"totalUnits": 130,
+			"programIds": [
+				7279
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28698,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:30:00",
+			"endTime": "23:00:00",
+			"cost": 2905,
+			"totalUnits": 130,
+			"programIds": [
+				1217
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28705,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "22:30:00",
+			"endTime": "23:00:00",
+			"cost": 3260,
+			"totalUnits": 130,
+			"programIds": [
+				1240
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28712,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "1.00:00:00",
+			"cost": 275,
+			"totalUnits": 130,
+			"programIds": [
+				1319
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28717,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:35:00",
+			"cost": 1700,
+			"totalUnits": 130,
+			"programIds": [
+				2360
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28718,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:30:00",
+			"cost": 2485,
+			"totalUnits": 130,
+			"programIds": [
+				29
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28719,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "1.00:00:00",
+			"cost": 2770,
+			"totalUnits": 130,
+			"programIds": [
+				3259
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28730,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "1.00:00:00",
+			"cost": 2630,
+			"totalUnits": 130,
+			"programIds": [
+				2989
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28741,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:30:00",
+			"cost": 615,
+			"totalUnits": 130,
+			"programIds": [
+				17
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28742,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:30:00",
+			"cost": 2325,
+			"totalUnits": 130,
+			"programIds": [
+				2377
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28743,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:35:00",
+			"cost": 2450,
+			"totalUnits": 130,
+			"programIds": [
+				1316
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28753,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:30:00",
+			"cost": 670,
+			"totalUnits": 130,
+			"programIds": [
+				49
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28767,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "1.00:00:00",
+			"cost": 2220,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28775,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:35:00",
+			"cost": 2780,
+			"totalUnits": 130,
+			"programIds": [
+				2631
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28792,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:30:00",
+			"cost": 1210,
+			"totalUnits": 130,
+			"programIds": [
+				1058
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28800,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "1.00:00:00",
+			"cost": 3445,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28806,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "23:30:00",
+			"cost": 3815,
+			"totalUnits": 130,
+			"programIds": [
+				1265
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28807,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:00:00",
+			"endTime": "1.00:00:00",
+			"cost": 3395,
+			"totalUnits": 130,
+			"programIds": [
+				1254
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28824,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:05:00",
+			"cost": 2780,
+			"totalUnits": 130,
+			"programIds": [
+				2631
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28825,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 2770,
+			"totalUnits": 130,
+			"programIds": [
+				3195
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28826,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:05:00",
+			"cost": 3115,
+			"totalUnits": 130,
+			"programIds": [
+				3196
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28827,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 3815,
+			"totalUnits": 130,
+			"programIds": [
+				1265
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28828,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 3815,
+			"totalUnits": 130,
+			"programIds": [
+				3014
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28829,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 2485,
+			"totalUnits": 130,
+			"programIds": [
+				3197
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28838,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 3395,
+			"totalUnits": 130,
+			"programIds": [
+				1222
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28839,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 3260,
+			"totalUnits": 130,
+			"programIds": [
+				1240
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28840,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 2905,
+			"totalUnits": 130,
+			"programIds": [
+				1217
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28841,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 1700,
+			"totalUnits": 130,
+			"programIds": [
+				2360
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28842,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:00:00",
+			"cost": 2450,
+			"totalUnits": 130,
+			"programIds": [
+				1316
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28843,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "23:30:00",
+			"endTime": "1.00:05:00",
+			"cost": 2630,
+			"totalUnits": 130,
+			"programIds": [
+				2989
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28902,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "04:30:00",
+			"cost": 2295,
+			"totalUnits": 130,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28904,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "04:30:00",
+			"cost": 2985,
+			"totalUnits": 130,
+			"programIds": [
+				3019
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28905,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "04:30:00",
+			"cost": 2645,
+			"totalUnits": 130,
+			"programIds": [
+				3305
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28906,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "04:30:00",
+			"cost": 2985,
+			"totalUnits": 130,
+			"programIds": [
+				3302
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28907,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "04:30:00",
+			"cost": 5120,
+			"totalUnits": 130,
+			"programIds": [
+				3304
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28908,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "04:30:00",
+			"cost": 4230,
+			"totalUnits": 130,
+			"programIds": [
+				3160
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28909,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "05:00:00",
+			"cost": 2970,
+			"totalUnits": 130,
+			"programIds": [
+				1303
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28910,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "04:30:00",
+			"cost": 2870,
+			"totalUnits": 130,
+			"programIds": [
+				2377
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28911,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:00:00",
+			"endTime": "06:00:00",
+			"cost": 2325,
+			"totalUnits": 130,
+			"programIds": [
+				930
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28971,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:30:00",
+			"endTime": "05:00:00",
+			"cost": 3045,
+			"totalUnits": 130,
+			"programIds": [
+				2357
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28978,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:30:00",
+			"endTime": "05:00:00",
+			"cost": 4620,
+			"totalUnits": 130,
+			"programIds": [
+				7178
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28982,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:30:00",
+			"endTime": "05:00:00",
+			"cost": 140,
+			"totalUnits": 130,
+			"programIds": [
+				3124
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28988,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:30:00",
+			"endTime": "05:00:00",
+			"cost": 1010,
+			"totalUnits": 130,
+			"programIds": [
+				2418
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28991,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:30:00",
+			"endTime": "05:00:00",
+			"cost": 510,
+			"totalUnits": 130,
+			"programIds": [
+				17
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28998,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:30:00",
+			"endTime": "05:00:00",
+			"cost": 800,
+			"totalUnits": 130,
+			"programIds": [
+				49
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 28999,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:30:00",
+			"endTime": "05:00:00",
+			"cost": 960,
+			"totalUnits": 130,
+			"programIds": [
+				1058
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29004,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "04:30:00",
+			"endTime": "05:00:00",
+			"cost": 640,
+			"totalUnits": 130,
+			"programIds": [
+				881
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29010,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:00:00",
+			"endTime": "06:00:00",
+			"cost": 3840,
+			"totalUnits": 130,
+			"programIds": [
+				7178
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29016,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:00:00",
+			"endTime": "06:00:00",
+			"cost": 85,
+			"totalUnits": 130,
+			"programIds": [
+				1914
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29017,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:00:00",
+			"endTime": "06:00:00",
+			"cost": 70,
+			"totalUnits": 130,
+			"programIds": [
+				3124
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29018,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:00:00",
+			"endTime": "06:00:00",
+			"cost": 40,
+			"totalUnits": 130,
+			"programIds": [
+				1372
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29031,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:00:00",
+			"endTime": "06:00:00",
+			"cost": 770,
+			"totalUnits": 130,
+			"programIds": [
+				964
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29036,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:00:00",
+			"endTime": "05:30:00",
+			"cost": 260,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29039,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:00:00",
+			"endTime": "05:30:00",
+			"cost": 185,
+			"totalUnits": 130,
+			"programIds": [
+				1055
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29041,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:00:00",
+			"endTime": "05:30:00",
+			"cost": 1595,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29053,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:30:00",
+			"endTime": "06:00:00",
+			"cost": 170,
+			"totalUnits": 130,
+			"programIds": [
+				3174
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29056,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:30:00",
+			"endTime": "06:00:00",
+			"cost": 175,
+			"totalUnits": 130,
+			"programIds": [
+				877
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29057,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:30:00",
+			"endTime": "06:00:00",
+			"cost": 115,
+			"totalUnits": 130,
+			"programIds": [
+				2334
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29058,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:30:00",
+			"endTime": "06:00:00",
+			"cost": 245,
+			"totalUnits": 130,
+			"programIds": [
+				350
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29061,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "05:30:00",
+			"endTime": "06:00:00",
+			"cost": 2145,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29081,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "06:00:00",
+			"endTime": "07:00:00",
+			"cost": 2345,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29092,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "06:00:00",
+			"endTime": "07:00:00",
+			"cost": 1715,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29094,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "06:00:00",
+			"endTime": "07:00:00",
+			"cost": 1695,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29102,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "06:30:00",
+			"endTime": "08:00:00",
+			"cost": 25,
+			"totalUnits": 130,
+			"programIds": [
+				1914
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29103,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "06:30:00",
+			"endTime": "07:00:00",
+			"cost": 70,
+			"totalUnits": 130,
+			"programIds": [
+				3124
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29106,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "06:30:00",
+			"endTime": "07:00:00",
+			"cost": 185,
+			"totalUnits": 130,
+			"programIds": [
+				877
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29111,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 190,
+			"totalUnits": 130,
+			"programIds": [
+				2238
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29114,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 1715,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29117,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "08:00:00",
+			"cost": 1745,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29122,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 105,
+			"totalUnits": 130,
+			"programIds": [
+				2426
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29123,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "08:00:00",
+			"cost": 650,
+			"totalUnits": 130,
+			"programIds": [
+				964
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29127,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 40,
+			"totalUnits": 130,
+			"programIds": [
+				129
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29129,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "09:00:00",
+			"cost": 165,
+			"totalUnits": 130,
+			"programIds": [
+				1055
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29132,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "08:00:00",
+			"cost": 1350,
+			"totalUnits": 130,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29154,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 995,
+			"totalUnits": 130,
+			"programIds": [
+				2611
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29165,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "08:00:00",
+			"cost": 420,
+			"totalUnits": 130,
+			"programIds": [
+				358
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29169,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "08:00:00",
+			"cost": 1080,
+			"totalUnits": 130,
+			"programIds": [
+				2607
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 29176,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:00:00",
+			"endTime": "07:30:00",
+			"cost": 1385,
+			"totalUnits": 130,
+			"programIds": [
+				2603
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40428,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40429,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 27,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40430,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 130,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40431,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 200,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40438,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 65,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40439,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 400,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40440,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 500,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40441,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 572,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40442,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 627,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40446,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 598,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40447,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 468,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40449,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 933,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40450,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 981,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40451,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 204,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40452,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 198,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40453,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 148,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40454,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 240,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40455,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 350,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40456,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40457,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40458,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 823,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40772,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 770,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40773,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 722,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40774,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40775,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 699,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40776,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 464,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40777,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 553,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40778,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 589,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40779,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 595,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40780,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 715,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40781,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 650,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40782,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 672,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40783,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40784,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 630,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40785,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 475,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40794,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40795,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1180,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40796,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1280,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40797,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40798,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1190,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40799,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40800,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40801,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1070,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40802,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40803,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40804,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 758,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40805,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40808,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40809,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40810,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 900,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40811,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40812,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 770,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40813,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 840,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40814,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40815,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 40816,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 800,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 41175,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 41176,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": 100
+		},
+		{
+			"id": 41177,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": 100
+		},
+		{
+			"id": 42923,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "07:30:00",
+			"endTime": "08:00:00",
+			"cost": 70,
+			"totalUnits": 429,
+			"programIds": [
+				408
+			],
+			"itemGroupId": 99
+		},
+		{
+			"id": 42924,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "08:00:00",
+			"endTime": "08:30:00",
+			"cost": 120,
+			"totalUnits": 286,
+			"programIds": [
+				2439
+			],
+			"itemGroupId": 99
+		},
+		{
+			"id": 43158,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43159,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43160,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43161,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43162,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43163,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43164,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43165,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43166,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43167,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43168,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43169,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43170,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43171,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43172,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:59:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1581
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 43930,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "15:00:00",
+			"endTime": "20:15:00",
+			"cost": 0,
+			"totalUnits": 0,
+			"programIds": [
+				1580
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46080,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46081,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46082,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46083,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46084,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46085,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46086,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46087,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46088,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46089,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46090,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46091,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46092,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46093,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46094,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46095,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46096,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46097,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46098,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 1300,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46099,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46100,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46101,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 46102,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				947
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 47675,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "02:45:00",
+			"cost": 100,
+			"totalUnits": 0,
+			"programIds": [
+				7529
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 48129,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "22:00:00",
+			"cost": 327411,
+			"totalUnits": 0,
+			"programIds": [
+				1793
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 48505,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "22:15:00",
+			"cost": 754367,
+			"totalUnits": 0,
+			"programIds": [
+				440
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 48508,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "11:00:00",
+			"cost": 464.73,
+			"totalUnits": 1001,
+			"programIds": [
+				445
+			],
+			"itemGroupId": null
+		},
+		{
+			"id": 48509,
+			"year": 2019,
+			"quarter": "q4",
+			"startTime": "03:00:00",
+			"endTime": "11:00:00",
+			"cost": 50.37,
+			"totalUnits": 1001,
+			"programIds": [
+				3045
+			],
+			"itemGroupId": null
+		}
+	],
+	"programs": [
+		{
+			"id": 1580,
+			"name": "11 TV Hill"
+		},
+		{
+			"id": 1581,
+			"name": "13 IN Focus"
+		},
+		{
+			"id": 408,
+			"name": "190 North"
+		},
+		{
+			"id": 121,
+			"name": "1st Look"
+		},
+		{
+			"id": 947,
+			"name": "2 Broke Girls"
+		},
+		{
+			"id": 946,
+			"name": "2 Broke Girls"
+		},
+		{
+			"id": 2357,
+			"name": "20-20"
+		},
+		{
+			"id": 2360,
+			"name": "48 Hours"
+		},
+		{
+			"id": 2365,
+			"name": "60 Minutes"
+		},
+		{
+			"id": 3017,
+			"name": "911"
+		},
+		{
+			"id": 3196,
+			"name": "A Million Little Things"
+		},
+		{
+			"id": 2330,
+			"name": "Access Hollywood"
+		},
+		{
+			"id": 2331,
+			"name": "Access Live"
+		},
+		{
+			"id": 1198,
+			"name": "Adam 12"
+		},
+		{
+			"id": 955,
+			"name": "American Housewife"
+		},
+		{
+			"id": 84,
+			"name": "American Idol"
+		},
+		{
+			"id": 129,
+			"name": "American Latino TV"
+		},
+		{
+			"id": 85,
+			"name": "American Ninja Warrior"
+		},
+		{
+			"id": 11,
+			"name": "Americas Court With Judge Ross"
+		},
+		{
+			"id": 7,
+			"name": "Americas Funniest Home Videos"
+		},
+		{
+			"id": 87,
+			"name": "Americas Got Talent"
+		},
+		{
+			"id": 33,
+			"name": "Beat Shazam"
+		},
+		{
+			"id": 92,
+			"name": "Big Brother"
+		},
+		{
+			"id": 1211,
+			"name": "Bionic Woman"
+		},
+		{
+			"id": 966,
+			"name": "blackish"
+		},
+		{
+			"id": 1215,
+			"name": "Blindspot"
+		},
+		{
+			"id": 1217,
+			"name": "Blue Bloods"
+		},
+		{
+			"id": 1218,
+			"name": "Bones"
+		},
+		{
+			"id": 1222,
+			"name": "Bull"
+		},
+		{
+			"id": 2913,
+			"name": "Bull Riding"
+		},
+		{
+			"id": 3259,
+			"name": "Castaways"
+		},
+		{
+			"id": 2445,
+			"name": "CBS Morning News"
+		},
+		{
+			"id": 2446,
+			"name": "CBS News Sunday Morning"
+		},
+		{
+			"id": 2450,
+			"name": "CBS This Morning"
+		},
+		{
+			"id": 2451,
+			"name": "CBS This Morning Saturday"
+		},
+		{
+			"id": 440,
+			"name": "Cedar Valley Home Sweet Home"
+		},
+		{
+			"id": 41,
+			"name": "Celebrity Family Feud"
+		},
+		{
+			"id": 2332,
+			"name": "Celebrity Page"
+		},
+		{
+			"id": 158,
+			"name": "Cheaters"
+		},
+		{
+			"id": 1227,
+			"name": "Chicago Fire"
+		},
+		{
+			"id": 1228,
+			"name": "Chicago Med"
+		},
+		{
+			"id": 3160,
+			"name": "Chicago PD"
+		},
+		{
+			"id": 3024,
+			"name": "Child Support"
+		},
+		{
+			"id": 445,
+			"name": "Coffee With America"
+		},
+		{
+			"id": 1234,
+			"name": "Columbo"
+		},
+		{
+			"id": 162,
+			"name": "Cops"
+		},
+		{
+			"id": 164,
+			"name": "Corrupt Crimes"
+		},
+		{
+			"id": 1239,
+			"name": "Crimetime Saturday"
+		},
+		{
+			"id": 1240,
+			"name": "Criminal Minds"
+		},
+		{
+			"id": 2377,
+			"name": "Dateline"
+		},
+		{
+			"id": 2376,
+			"name": "Dateline"
+		},
+		{
+			"id": 2379,
+			"name": "Dateline Saturday Mystery"
+		},
+		{
+			"id": 1450,
+			"name": "Days of our Lives"
+		},
+		{
+			"id": 455,
+			"name": "Dish Nation"
+		},
+		{
+			"id": 13,
+			"name": "Divorce Court"
+		},
+		{
+			"id": 179,
+			"name": "Dr Chris Pet Vet"
+		},
+		{
+			"id": 2580,
+			"name": "Dr Phil"
+		},
+		{
+			"id": 1254,
+			"name": "Elementary"
+		},
+		{
+			"id": 1253,
+			"name": "Elementary"
+		},
+		{
+			"id": 2114,
+			"name": "Elizabeth Stantons Great Big World"
+		},
+		{
+			"id": 1256,
+			"name": "Emergency"
+		},
+		{
+			"id": 463,
+			"name": "Entertainers With Byron Allen"
+		},
+		{
+			"id": 2334,
+			"name": "Entertainment Tonight"
+		},
+		{
+			"id": 3135,
+			"name": "Equestrian"
+		},
+		{
+			"id": 2337,
+			"name": "Extra"
+		},
+		{
+			"id": 1694,
+			"name": "Face the Nation"
+		},
+		{
+			"id": 3184,
+			"name": "Face the Truth"
+		},
+		{
+			"id": 49,
+			"name": "Family Feud"
+		},
+		{
+			"id": 878,
+			"name": "Family Guy"
+		},
+		{
+			"id": 877,
+			"name": "Family Guy"
+		},
+		{
+			"id": 3290,
+			"name": "FBI"
+		},
+		{
+			"id": 189,
+			"name": "First Dates"
+		},
+		{
+			"id": 3070,
+			"name": "Football Night in America"
+		},
+		{
+			"id": 3014,
+			"name": "For The People"
+		},
+		{
+			"id": 191,
+			"name": "Forensic Files"
+		},
+		{
+			"id": 2455,
+			"name": "FOX News Sunday With Chris Wallace"
+		},
+		{
+			"id": 999,
+			"name": "Frasier"
+		},
+		{
+			"id": 1000,
+			"name": "Fresh Off the Boat"
+		},
+		{
+			"id": 50,
+			"name": "Funny You Should Ask"
+		},
+		{
+			"id": 1451,
+			"name": "General Hospital"
+		},
+		{
+			"id": 195,
+			"name": "George to the Rescue"
+		},
+		{
+			"id": 2617,
+			"name": "Ghosted"
+		},
+		{
+			"id": 198,
+			"name": "Give"
+		},
+		{
+			"id": 3165,
+			"name": "GMA Day"
+		},
+		{
+			"id": 3301,
+			"name": "God Friended Me"
+		},
+		{
+			"id": 3019,
+			"name": "Good Girls"
+		},
+		{
+			"id": 2456,
+			"name": "Good Morning America"
+		},
+		{
+			"id": 3039,
+			"name": "Gordon Ramsays 24 Hours to Hell and Back"
+		},
+		{
+			"id": 1270,
+			"name": "Greys Anatomy"
+		},
+		{
+			"id": 3199,
+			"name": "Happy Together"
+		},
+		{
+			"id": 1273,
+			"name": "Hawaii Five 0"
+		},
+		{
+			"id": 14,
+			"name": "Hot Bench"
+		},
+		{
+			"id": 2159,
+			"name": "HouseSmarts"
+		},
+		{
+			"id": 1024,
+			"name": "How I Met Your Mother"
+		},
+		{
+			"id": 1265,
+			"name": "How to Get Away With Murder"
+		},
+		{
+			"id": 7178,
+			"name": "I Feel Bad"
+		},
+		{
+			"id": 8,
+			"name": "Impractical Jokers"
+		},
+		{
+			"id": 350,
+			"name": "In Depth with Graham Bensinger"
+		},
+		{
+			"id": 836,
+			"name": "Innovation Nation"
+		},
+		{
+			"id": 2396,
+			"name": "Inside Edition"
+		},
+		{
+			"id": 2504,
+			"name": "Jack Hannas Wild Countdown"
+		},
+		{
+			"id": 54,
+			"name": "Jeopardy"
+		},
+		{
+			"id": 358,
+			"name": "JetLife"
+		},
+		{
+			"id": 359,
+			"name": "Jets Flight Plan"
+		},
+		{
+			"id": 2603,
+			"name": "Jimmy Kimmel Live"
+		},
+		{
+			"id": 17,
+			"name": "Judge Judy"
+		},
+		{
+			"id": 20,
+			"name": "Judge Mathis"
+		},
+		{
+			"id": 3268,
+			"name": "Justice for All With Judge Cristina Prez"
+		},
+		{
+			"id": 19,
+			"name": "Justice With Judge Mablean"
+		},
+		{
+			"id": 3074,
+			"name": "Killer Mysteries"
+		},
+		{
+			"id": 1297,
+			"name": "Kojak"
+		},
+		{
+			"id": 1036,
+			"name": "Last Man Standing"
+		},
+		{
+			"id": 1035,
+			"name": "Last Man Standing"
+		},
+		{
+			"id": 1301,
+			"name": "Law & Order Criminal Intent"
+		},
+		{
+			"id": 1303,
+			"name": "Law & Order Special Victims Unit"
+		},
+		{
+			"id": 1302,
+			"name": "Law & Order Special Victims Unit"
+		},
+		{
+			"id": 2187,
+			"name": "Leading the Way With Dr Michael Youseff"
+		},
+		{
+			"id": 1305,
+			"name": "Lethal Weapon"
+		},
+		{
+			"id": 55,
+			"name": "Lets Make a Deal"
+		},
+		{
+			"id": 1308,
+			"name": "Little House on the Prairie"
+		},
+		{
+			"id": 2192,
+			"name": "Live Life & Win"
+		},
+		{
+			"id": 3255,
+			"name": "Live PD Police Patrol"
+		},
+		{
+			"id": 2584,
+			"name": "Live with Kelly & Ryan"
+		},
+		{
+			"id": 2439,
+			"name": "Local News"
+		},
+		{
+			"id": 227,
+			"name": "Love Connection"
+		},
+		{
+			"id": 228,
+			"name": "Lucky Dog"
+		},
+		{
+			"id": 1314,
+			"name": "MacGyver"
+		},
+		{
+			"id": 1316,
+			"name": "Madam Secretary"
+		},
+		{
+			"id": 2344,
+			"name": "Made in Hollywood Teen Edition"
+		},
+		{
+			"id": 3289,
+			"name": "Magnum PI"
+		},
+		{
+			"id": 3232,
+			"name": "Magnum PI"
+		},
+		{
+			"id": 1319,
+			"name": "Major Crimes"
+		},
+		{
+			"id": 3302,
+			"name": "Manifest"
+		},
+		{
+			"id": 102,
+			"name": "MasterChef"
+		},
+		{
+			"id": 564,
+			"name": "Matter of Fact With Soledad OBrien"
+		},
+		{
+			"id": 1324,
+			"name": "McCloud"
+		},
+		{
+			"id": 1326,
+			"name": "McMillan & Wife"
+		},
+		{
+			"id": 523,
+			"name": "Megyn Kelly Today"
+		},
+		{
+			"id": 1329,
+			"name": "Miami Vice"
+		},
+		{
+			"id": 1055,
+			"name": "Mike & Molly"
+		},
+		{
+			"id": 1793,
+			"name": "Minds of Medicine"
+		},
+		{
+			"id": 1059,
+			"name": "Modern Family"
+		},
+		{
+			"id": 1058,
+			"name": "Modern Family"
+		},
+		{
+			"id": 1061,
+			"name": "Mom"
+		},
+		{
+			"id": 69,
+			"name": "MOVIE"
+		},
+		{
+			"id": 1333,
+			"name": "Murder She Wrote"
+		},
+		{
+			"id": 1334,
+			"name": "Murdoch Mysteries"
+		},
+		{
+			"id": 3237,
+			"name": "Murphy Brown"
+		},
+		{
+			"id": 2215,
+			"name": "Naturally Danny Seo"
+		},
+		{
+			"id": 2458,
+			"name": "NBC Nightly News With Lester Holt"
+		},
+		{
+			"id": 1340,
+			"name": "NCIS"
+		},
+		{
+			"id": 1341,
+			"name": "NCIS Los Angeles"
+		},
+		{
+			"id": 1342,
+			"name": "NCIS New Orleans"
+		},
+		{
+			"id": 3304,
+			"name": "New Amsterdam"
+		},
+		{
+			"id": 2511,
+			"name": "Ocean Mysteries With Jeff Corwin"
+		},
+		{
+			"id": 2510,
+			"name": "Ocean Treks With Jeff Corwin"
+		},
+		{
+			"id": 1820,
+			"name": "On the Money"
+		},
+		{
+			"id": 2220,
+			"name": "Open House"
+		},
+		{
+			"id": 2221,
+			"name": "Open House NYC"
+		},
+		{
+			"id": 542,
+			"name": "Our World With Black Enterprise"
+		},
+		{
+			"id": 2514,
+			"name": "Outback Adventures With Tim Faulkner"
+		},
+		{
+			"id": 2348,
+			"name": "Page Six TV"
+		},
+		{
+			"id": 3261,
+			"name": "Paternity Court"
+		},
+		{
+			"id": 248,
+			"name": "Pawn Stars"
+		},
+		{
+			"id": 3264,
+			"name": "Pet Vet Dream Team"
+		},
+		{
+			"id": 2528,
+			"name": "PetsTV"
+		},
+		{
+			"id": 3306,
+			"name": "Proven Innocent"
+		},
+		{
+			"id": 2589,
+			"name": "Rachael Ray"
+		},
+		{
+			"id": 2238,
+			"name": "Raw Travel"
+		},
+		{
+			"id": 2241,
+			"name": "Real Green"
+		},
+		{
+			"id": 3312,
+			"name": "Rel"
+		},
+		{
+			"id": 2415,
+			"name": "RightThisMinute"
+		},
+		{
+			"id": 1370,
+			"name": "Rizzoli & Isles"
+		},
+		{
+			"id": 2531,
+			"name": "Rock the Park"
+		},
+		{
+			"id": 3112,
+			"name": "Salvation"
+		},
+		{
+			"id": 930,
+			"name": "Saturday Night Live"
+		},
+		{
+			"id": 2535,
+			"name": "Sea Rescue"
+		},
+		{
+			"id": 2623,
+			"name": "SEAL Team"
+		},
+		{
+			"id": 7279,
+			"name": "Shark Tank"
+		},
+		{
+			"id": 3300,
+			"name": "Single Parents"
+		},
+		{
+			"id": 7529,
+			"name": "Sister Kate"
+		},
+		{
+			"id": 269,
+			"name": "Small Town Big Deal"
+		},
+		{
+			"id": 2965,
+			"name": "Soccer Premier League"
+		},
+		{
+			"id": 1091,
+			"name": "Speechless"
+		},
+		{
+			"id": 3308,
+			"name": "Spin the Wheel"
+		},
+		{
+			"id": 3007,
+			"name": "Splitting Up Together"
+		},
+		{
+			"id": 388,
+			"name": "Sports Stars of Tomorrow"
+		},
+		{
+			"id": 1392,
+			"name": "Star"
+		},
+		{
+			"id": 3067,
+			"name": "Station 19"
+		},
+		{
+			"id": 2591,
+			"name": "Steve"
+		},
+		{
+			"id": 2418,
+			"name": "Street Soldiers"
+		},
+		{
+			"id": 2459,
+			"name": "Sunday Today With Willie Geist"
+		},
+		{
+			"id": 25,
+			"name": "Supreme Justice With Judge Karen Mills"
+		},
+		{
+			"id": 118,
+			"name": "Survivor"
+		},
+		{
+			"id": 2989,
+			"name": "SWAT"
+		},
+		{
+			"id": 1914,
+			"name": "Talk Stoop"
+		},
+		{
+			"id": 860,
+			"name": "Teen Kids News"
+		},
+		{
+			"id": 29,
+			"name": "The $100 000 Pyramid"
+		},
+		{
+			"id": 1400,
+			"name": "The A Team"
+		},
+		{
+			"id": 3197,
+			"name": "The Alec Baldwin Show"
+		},
+		{
+			"id": 83,
+			"name": "The Amazing Race"
+		},
+		{
+			"id": 119,
+			"name": "The Bachelor"
+		},
+		{
+			"id": 964,
+			"name": "The Big Bang Theory"
+		},
+		{
+			"id": 1402,
+			"name": "The Blacklist"
+		},
+		{
+			"id": 1449,
+			"name": "The Bold & The Beautiful"
+		},
+		{
+			"id": 3262,
+			"name": "The Champion Within"
+		},
+		{
+			"id": 3193,
+			"name": "The Conners"
+		},
+		{
+			"id": 3310,
+			"name": "The Cool Kids"
+		},
+		{
+			"id": 982,
+			"name": "The Dick Van Dyke Show"
+		},
+		{
+			"id": 2596,
+			"name": "The Doctors"
+		},
+		{
+			"id": 2579,
+			"name": "The Dr Oz Show"
+		},
+		{
+			"id": 2581,
+			"name": "The Ellen DeGeneres Show"
+		},
+		{
+			"id": 3305,
+			"name": "The Enemy Within"
+		},
+		{
+			"id": 2624,
+			"name": "The Gifted"
+		},
+		{
+			"id": 1099,
+			"name": "The Goldbergs"
+		},
+		{
+			"id": 2631,
+			"name": "The Good Doctor"
+		},
+		{
+			"id": 1007,
+			"name": "The Good Place"
+		},
+		{
+			"id": 1287,
+			"name": "The Inspectors"
+		},
+		{
+			"id": 3002,
+			"name": "The James Brown Show"
+		},
+		{
+			"id": 3194,
+			"name": "The Kids Are Alright"
+		},
+		{
+			"id": 1033,
+			"name": "The King of Queens"
+		},
+		{
+			"id": 2607,
+			"name": "The Late Show With Stephen Colbert"
+		},
+		{
+			"id": 3174,
+			"name": "The Listener"
+		},
+		{
+			"id": 3307,
+			"name": "The Masked Singer"
+		},
+		{
+			"id": 3271,
+			"name": "The Nanny"
+		},
+		{
+			"id": 3198,
+			"name": "The Neighborhood"
+		},
+		{
+			"id": 397,
+			"name": "The NFL Today"
+		},
+		{
+			"id": 3030,
+			"name": "The Orville"
+		},
+		{
+			"id": 399,
+			"name": "The OT"
+		},
+		{
+			"id": 3309,
+			"name": "The Passage"
+		},
+		{
+			"id": 24,
+			"name": "The Peoples Court"
+		},
+		{
+			"id": 60,
+			"name": "The Price Is Right"
+		},
+		{
+			"id": 2597,
+			"name": "The Real"
+		},
+		{
+			"id": 1082,
+			"name": "The Real McCoys"
+		},
+		{
+			"id": 3018,
+			"name": "The Resident"
+		},
+		{
+			"id": 1372,
+			"name": "The Rockford Files"
+		},
+		{
+			"id": 3195,
+			"name": "The Rookie"
+		},
+		{
+			"id": 881,
+			"name": "The Simpsons"
+		},
+		{
+			"id": 2598,
+			"name": "The Talk"
+		},
+		{
+			"id": 2611,
+			"name": "The Tonight Show Starring Jimmy Fallon"
+		},
+		{
+			"id": 21,
+			"name": "The Verdict With Judge Hatchett"
+		},
+		{
+			"id": 2599,
+			"name": "The View"
+		},
+		{
+			"id": 1183,
+			"name": "The Virginian"
+		},
+		{
+			"id": 120,
+			"name": "The Voice"
+		},
+		{
+			"id": 65,
+			"name": "The Wall"
+		},
+		{
+			"id": 2601,
+			"name": "The Wendy Williams Show"
+		},
+		{
+			"id": 2547,
+			"name": "The Wildlife Docs"
+		},
+		{
+			"id": 1420,
+			"name": "The X Files"
+		},
+		{
+			"id": 1453,
+			"name": "The Young & The Restless"
+		},
+		{
+			"id": 1929,
+			"name": "This Week With George Stephanopoulos"
+		},
+		{
+			"id": 1930,
+			"name": "Tiempo"
+		},
+		{
+			"id": 3150,
+			"name": "TKO Total Knock Out"
+		},
+		{
+			"id": 2352,
+			"name": "TMZ"
+		},
+		{
+			"id": 2353,
+			"name": "TMZ Live"
+		},
+		{
+			"id": 3045,
+			"name": "To Tell the Truth"
+		},
+		{
+			"id": 3033,
+			"name": "Today Show"
+		},
+		{
+			"id": 2460,
+			"name": "Today with Kathie Lee Hoda"
+		},
+		{
+			"id": 2426,
+			"name": "Top 30"
+		},
+		{
+			"id": 3192,
+			"name": "Vacation Creation"
+		},
+		{
+			"id": 67,
+			"name": "Wheel of Fortune"
+		},
+		{
+			"id": 68,
+			"name": "Who Wants To Be A Millionaire"
+		},
+		{
+			"id": 2545,
+			"name": "Wild About Animals"
+		},
+		{
+			"id": 2546,
+			"name": "Wilderness Vet"
+		},
+		{
+			"id": 2620,
+			"name": "Will & Grace"
+		},
+		{
+			"id": 3124,
+			"name": "Will Grace"
+		},
+		{
+			"id": 867,
+			"name": "Wonderama"
+		},
+		{
+			"id": 3263,
+			"name": "World of X Games"
+		},
+		{
+			"id": 2472,
+			"name": "Xploration Awesome Planet"
+		},
+		{
+			"id": 2550,
+			"name": "Xploration DIY Sci"
+		},
+		{
+			"id": 2488,
+			"name": "Xploration Earth 2050"
+		},
+		{
+			"id": 2509,
+			"name": "Xploration Nature Knows Best"
+		},
+		{
+			"id": 2552,
+			"name": "Xploration Outer Space"
+		},
+		{
+			"id": 2542,
+			"name": "Xploration Weird but True"
+		},
+		{
+			"id": 2621,
+			"name": "Young Sheldon"
+		}
+	]
+}
